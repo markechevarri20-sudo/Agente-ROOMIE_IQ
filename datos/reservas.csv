@@ -1,0 +1,51 @@
+codigo_habitacion,distrito,inquilino,metodo_pago,contrato,monto,fecha
+HAB-022,Santiago de Surco,Alejandra,Tarjeta,Físico,820.0,2026-09-02 12:03
+HAB-018,Breña,Miguel,Tarjeta,Virtual,750.0,2026-09-02 18:04
+HAB-027,Pueblo Libre,Carlos,Yape,Virtual,1030.0,2026-09-02 19:38
+HAB-032,Los Olivos,Eduardo,Yape,Virtual,580.0,2026-09-04 10:46
+HAB-022,Santiago de Surco,Ximena,Tarjeta,Físico,820.0,2026-09-04 12:26
+HAB-017,La Molina,Natalia,Yape,Físico,1190.0,2026-09-05 12:13
+HAB-030,Rímac,Brenda,Tarjeta,Virtual,1060.0,2026-09-05 18:18
+HAB-049,San Martín de Porres,Valeria,Yape,Virtual,730.0,2026-09-05 19:16
+HAB-019,San Martín de Porres,Sebastián,Yape,Físico,770.0,2026-09-06 15:09
+HAB-005,Santiago de Surco,Renato,Yape,Virtual,1050.0,2026-09-06 19:51
+HAB-004,Jesús María,Andrés,Tarjeta,Virtual,950.0,2026-09-07 10:30
+HAB-049,San Martín de Porres,Franco,Yape,Físico,730.0,2026-09-08 16:34
+HAB-046,Lince,Paola,Tarjeta,Físico,830.0,2026-09-09 19:27
+HAB-028,Callao,Andrea,Tarjeta,Virtual,980.0,2026-09-11 18:50
+HAB-029,Magdalena,Claudia,Tarjeta,Físico,930.0,2026-09-12 13:01
+HAB-046,Lince,Adrián,Yape,Físico,830.0,2026-09-12 17:45
+HAB-032,Los Olivos,Samuel,Yape,Físico,580.0,2026-09-13 16:01
+HAB-047,Los Olivos,Álvaro,Yape,Físico,730.0,2026-09-13 18:40
+HAB-031,Lince,Joaquín,Tarjeta,Físico,740.0,2026-09-14 19:33
+HAB-018,Breña,Marta,Tarjeta,Virtual,750.0,2026-09-17 13:40
+HAB-022,Santiago de Surco,Gabriela,Tarjeta,Físico,820.0,2026-09-19 16:41
+HAB-014,Magdalena,Daniela,Yape,Virtual,900.0,2026-09-19 17:58
+HAB-019,San Martín de Porres,Fernanda,Tarjeta,Físico,770.0,2026-09-19 18:30
+HAB-007,Callao,Isabella,Yape,Físico,660.0,2026-09-19 19:18
+HAB-049,San Martín de Porres,Nicolás,Yape,Virtual,730.0,2026-09-20 10:26
+HAB-002,Callao,Diego,Yape,Físico,900.0,2026-09-20 17:42
+HAB-039,Jesús María,Kevin,Tarjeta,Físico,860.0,2026-09-22 12:40
+HAB-049,San Martín de Porres,Lucía,Yape,Virtual,730.0,2026-09-23 20:39
+HAB-022,Santiago de Surco,Jorge,Tarjeta,Físico,820.0,2026-09-24 18:56
+HAB-027,Pueblo Libre,Milagros,Yape,Virtual,1030.0,2026-09-25 13:56
+HAB-003,San Miguel,Hugo,Tarjeta,Virtual,1100.0,2026-09-25 14:31
+HAB-043,Callao,Camila,Tarjeta,Físico,990.0,2026-09-25 15:25
+HAB-022,Santiago de Surco,Mariana,Tarjeta,Físico,820.0,2026-09-25 20:18
+HAB-025,Cercado de Lima,Piero,Yape,Virtual,580.0,2026-09-26 12:07
+HAB-049,San Martín de Porres,Ignacio,Yape,Virtual,730.0,2026-09-26 19:28
+HAB-006,Rímac,Rocío,Yape,Virtual,1260.0,2026-09-27 11:43
+HAB-026,San Miguel,Raúl,Yape,Virtual,820.0,2026-09-29 18:08
+HAB-022,Santiago de Surco,Elena,Tarjeta,Físico,820.0,2026-09-29 19:43
+HAB-029,Magdalena,Oscar,Yape,Físico,930.0,2026-09-29 20:22
+HAB-019,San Martín de Porres,Luis,Tarjeta,Físico,770.0,2026-09-30 10:00
+HAB-001,Rímac,Karen,Tarjeta,Virtual,1200.0,2026-10-01 20:07
+HAB-018,Breña,Mateo,Yape,Virtual,750.0,2026-10-02 11:14
+HAB-039,Jesús María,Bruno,Tarjeta,Físico,860.0,2026-10-02 19:32
+HAB-005,Santiago de Surco,Lorena,Tarjeta,Virtual,1050.0,2026-10-02 19:45
+HAB-006,Rímac,Pedro,Tarjeta,Virtual,1260.0,2026-10-03 09:27
+HAB-039,Jesús María,Rosa,Tarjeta,Físico,860.0,2026-10-04 14:23
+HAB-014,Magdalena,Julieta,Tarjeta,Virtual,900.0,2026-10-05 16:40
+HAB-010,Santiago de Surco,Ana,Tarjeta,Virtual,800.0,2026-10-10 13:46
+HAB-002,Callao,Sofía,Yape,Físico,900.0,2026-10-10 18:35
+HAB-049,San Martín de Porres,Gustavo,Yape,Físico,730.0,2026-10-10 19:27

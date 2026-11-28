@@ -1,0 +1,51 @@
+codigo,titulo,distrito,universidad,precio,bano_propio,cocina,condominio,amoblado,espacio,ambiente,visitas,mascotas,metodos_pago,contrato,reglas,estado
+HAB-001,Habitación amoblada cerca a la UNI,Rímac,UNI,1200.0,S,S,N,S,Privado,Tranquilo,S,N,Todos,Virtual,"No fumar, silencio desde las 10 PM",Disponible
+HAB-002,Cuarto juvenil para estudiantes del Callao,Callao,UNAC,900.0,N,S,N,S,Compartido,Juvenil,S,S,Yape,Físico,Respetar turnos de limpieza,Disponible
+HAB-003,Habitación en condominio cerca a la PUCP,San Miguel,PUCP,1100.0,S,S,S,N,Privado,Estricto,N,N,Tarjeta,Ambos,"Sin visitas nocturnas, no fiestas",No disponible
+HAB-004,Cuarto con baño propio en Jesús María,Jesús María,Ninguna,950.0,S,N,N,S,Privado,Tranquilo,S,S,Todos,Ambos,Mantener áreas comunes ordenadas,Disponible
+HAB-005,Habitación individual cerca a UPC Monterrico,Santiago de Surco,UPC,1050.0,S,S,N,S,Privado,Juvenil,S,N,Todos,Virtual,"No mascotas, silencio desde las 10 PM",No disponible
+HAB-006,Cuarto cerca a UNI en Rímac,Rímac,UNI,1260.0,S,S,S,S,Privado,Tranquilo,S,N,Todos,Virtual,Respetar el reglamento interno,Disponible
+HAB-007,Cuarto cerca a UNAC en Callao,Callao,UNAC,660.0,N,N,S,S,Compartido,Juvenil,S,S,Yape,Ambos,Respetar el reglamento interno,No disponible
+HAB-008,Cuarto cerca a PUCP en San Miguel,San Miguel,PUCP,1260.0,S,S,N,S,Privado,Juvenil,N,N,Todos,Físico,Respetar el reglamento interno,Disponible
+HAB-009,Habitación en Jesús María,Jesús María,Ninguna,900.0,S,S,S,N,Privado,Ruidoso,N,N,Todos,Virtual,Respetar el reglamento interno,Disponible
+HAB-010,Cuarto cerca a UPC en Santiago de Surco,Santiago de Surco,UPC,800.0,N,S,N,S,Compartido,Juvenil,S,N,Tarjeta,Virtual,Respetar el reglamento interno,No disponible
+HAB-011,Cuarto cerca a UPC en Miraflores,Miraflores,UPC,1310.0,S,S,N,N,Compartido,Juvenil,S,N,Yape,Físico,Respetar el reglamento interno,Disponible
+HAB-012,Cuarto cerca a Universidad de Lima en San Borja,San Borja,Universidad de Lima,1130.0,N,S,S,N,Compartido,Ruidoso,S,N,Yape,Físico,Respetar el reglamento interno,Disponible
+HAB-013,Habitación en Lince,Lince,Ninguna,810.0,S,S,N,S,Privado,Tranquilo,S,S,Tarjeta,Ambos,Respetar el reglamento interno,Disponible
+HAB-014,Cuarto cerca a PUCP en Magdalena,Magdalena,PUCP,900.0,S,S,N,S,Compartido,Juvenil,S,N,Todos,Virtual,Respetar el reglamento interno,Disponible
+HAB-015,Cuarto cerca a UNMSM en Pueblo Libre,Pueblo Libre,UNMSM,890.0,S,S,N,S,Privado,Juvenil,S,S,Yape,Ambos,Respetar el reglamento interno,Disponible
+HAB-016,Cuarto cerca a UNMSM en Cercado de Lima,Cercado de Lima,UNMSM,700.0,N,S,S,S,Privado,Ruidoso,S,S,Yape,Físico,Respetar el reglamento interno,Disponible
+HAB-017,Cuarto cerca a UNALM en La Molina,La Molina,UNALM,1190.0,S,S,S,S,Privado,Juvenil,S,N,Todos,Físico,Respetar el reglamento interno,No disponible
+HAB-018,Habitación en Breña,Breña,Ninguna,750.0,N,N,N,S,Compartido,Ruidoso,N,N,Todos,Virtual,Respetar el reglamento interno,No disponible
+HAB-019,Cuarto cerca a UPC en San Martín de Porres,San Martín de Porres,UPC,770.0,S,N,N,S,Privado,Ruidoso,S,S,Todos,Físico,Respetar el reglamento interno,Disponible
+HAB-020,Cuarto cerca a UCV en Los Olivos,Los Olivos,UCV,660.0,N,S,S,S,Privado,Juvenil,N,S,Todos,Virtual,Respetar el reglamento interno,Disponible
+HAB-021,Habitación en Breña,Breña,Ninguna,900.0,S,N,N,S,Privado,Ruidoso,S,N,Todos,Físico,Respetar el reglamento interno,Disponible
+HAB-022,Cuarto cerca a UPC en Santiago de Surco,Santiago de Surco,UPC,820.0,S,S,N,S,Compartido,Tranquilo,S,S,Tarjeta,Físico,Respetar el reglamento interno,Disponible
+HAB-023,Cuarto cerca a UNALM en La Molina,La Molina,UNALM,1090.0,S,N,N,N,Compartido,Ruidoso,N,N,Tarjeta,Físico,Respetar el reglamento interno,Disponible
+HAB-024,Habitación en Jesús María,Jesús María,Ninguna,750.0,N,N,N,S,Compartido,Juvenil,S,N,Yape,Virtual,Respetar el reglamento interno,Disponible
+HAB-025,Cuarto cerca a UNMSM en Cercado de Lima,Cercado de Lima,UNMSM,580.0,S,S,N,N,Compartido,Juvenil,N,S,Todos,Ambos,Respetar el reglamento interno,Disponible
+HAB-026,Cuarto cerca a PUCP en San Miguel,San Miguel,PUCP,820.0,S,S,S,N,Compartido,Tranquilo,S,N,Todos,Ambos,Respetar el reglamento interno,No disponible
+HAB-027,Cuarto cerca a UNMSM en Pueblo Libre,Pueblo Libre,UNMSM,1030.0,S,N,N,S,Privado,Tranquilo,S,N,Todos,Ambos,Respetar el reglamento interno,Disponible
+HAB-028,Cuarto cerca a UNAC en Callao,Callao,UNAC,980.0,S,N,S,S,Privado,Ruidoso,N,S,Tarjeta,Virtual,Respetar el reglamento interno,Disponible
+HAB-029,Cuarto cerca a PUCP en Magdalena,Magdalena,PUCP,930.0,S,S,N,S,Privado,Tranquilo,N,S,Todos,Ambos,Respetar el reglamento interno,No disponible
+HAB-030,Cuarto cerca a UNI en Rímac,Rímac,UNI,1060.0,N,N,N,N,Privado,Juvenil,S,N,Tarjeta,Virtual,Respetar el reglamento interno,No disponible
+HAB-031,Habitación en Lince,Lince,Ninguna,740.0,S,S,N,S,Compartido,Estricto,S,N,Tarjeta,Ambos,Respetar el reglamento interno,Disponible
+HAB-032,Cuarto cerca a UCV en Los Olivos,Los Olivos,UCV,580.0,N,S,N,N,Compartido,Juvenil,S,N,Todos,Ambos,Respetar el reglamento interno,Disponible
+HAB-033,Cuarto cerca a Universidad de Lima en San Borja,San Borja,Universidad de Lima,1020.0,S,S,N,S,Compartido,Estricto,N,N,Tarjeta,Ambos,Respetar el reglamento interno,Disponible
+HAB-034,Cuarto cerca a UPC en San Martín de Porres,San Martín de Porres,UPC,720.0,S,S,N,N,Privado,Estricto,S,N,Tarjeta,Físico,Respetar el reglamento interno,Disponible
+HAB-035,Cuarto cerca a UPC en Miraflores,Miraflores,UPC,1410.0,N,S,N,N,Privado,Juvenil,S,N,Yape,Virtual,Respetar el reglamento interno,Disponible
+HAB-036,Habitación en Breña,Breña,Ninguna,740.0,S,S,N,N,Compartido,Ruidoso,N,N,Yape,Ambos,Respetar el reglamento interno,Disponible
+HAB-037,Cuarto cerca a UPC en Santiago de Surco,Santiago de Surco,UPC,870.0,S,S,N,S,Compartido,Estricto,S,N,Todos,Físico,Respetar el reglamento interno,Disponible
+HAB-038,Cuarto cerca a UNALM en La Molina,La Molina,UNALM,1320.0,S,N,N,S,Privado,Ruidoso,N,N,Todos,Ambos,Respetar el reglamento interno,Disponible
+HAB-039,Habitación en Jesús María,Jesús María,Ninguna,860.0,S,S,N,N,Privado,Tranquilo,N,S,Tarjeta,Físico,Respetar el reglamento interno,No disponible
+HAB-040,Cuarto cerca a UNMSM en Cercado de Lima,Cercado de Lima,UNMSM,730.0,N,S,S,S,Privado,Ruidoso,N,N,Tarjeta,Físico,Respetar el reglamento interno,Disponible
+HAB-041,Cuarto cerca a PUCP en San Miguel,San Miguel,PUCP,1000.0,S,S,S,S,Compartido,Ruidoso,N,S,Tarjeta,Ambos,Respetar el reglamento interno,Disponible
+HAB-042,Cuarto cerca a UNMSM en Pueblo Libre,Pueblo Libre,UNMSM,730.0,S,S,S,N,Compartido,Juvenil,S,S,Todos,Físico,Respetar el reglamento interno,Disponible
+HAB-043,Cuarto cerca a UNAC en Callao,Callao,UNAC,990.0,S,S,N,S,Privado,Ruidoso,S,N,Tarjeta,Ambos,Respetar el reglamento interno,No disponible
+HAB-044,Cuarto cerca a PUCP en Magdalena,Magdalena,PUCP,920.0,N,S,N,S,Privado,Juvenil,N,N,Todos,Ambos,Respetar el reglamento interno,Disponible
+HAB-045,Cuarto cerca a UNI en Rímac,Rímac,UNI,1240.0,N,S,N,S,Privado,Tranquilo,S,N,Todos,Ambos,Respetar el reglamento interno,Disponible
+HAB-046,Habitación en Lince,Lince,Ninguna,830.0,S,N,N,N,Privado,Ruidoso,S,S,Todos,Físico,Respetar el reglamento interno,No disponible
+HAB-047,Cuarto cerca a UCV en Los Olivos,Los Olivos,UCV,730.0,N,S,N,S,Privado,Juvenil,S,S,Yape,Ambos,Respetar el reglamento interno,Disponible
+HAB-048,Cuarto cerca a Universidad de Lima en San Borja,San Borja,Universidad de Lima,1330.0,N,S,N,S,Privado,Tranquilo,S,N,Todos,Físico,Respetar el reglamento interno,Disponible
+HAB-049,Cuarto cerca a UPC en San Martín de Porres,San Martín de Porres,UPC,730.0,S,S,N,S,Privado,Juvenil,S,S,Yape,Ambos,Respetar el reglamento interno,No disponible
+HAB-050,Cuarto cerca a UPC en Miraflores,Miraflores,UPC,1580.0,S,N,N,N,Privado,Estricto,S,N,Yape,Virtual,Respetar el reglamento interno,Disponible

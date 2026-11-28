@@ -1,0 +1,51 @@
+id_anfitrion,nombre,edad,publico_objetivo,distrito,codigo_habitacion
+1,Roberto,56,Estudiantes,Rímac,HAB-001
+2,Carmen,47,Practicantes,Callao,HAB-002
+3,Alberto,29,Practicantes,San Miguel,HAB-003
+4,Patricia,62,Jóvenes profesionales,Jesús María,HAB-004
+5,Ricardo,50,Practicantes,Santiago de Surco,HAB-005
+6,Silvia,41,Jóvenes profesionales,Rímac,HAB-006
+7,Manuel,61,Jóvenes profesionales,Callao,HAB-007
+8,Teresa,40,Estudiantes,San Miguel,HAB-008
+9,Héctor,57,Estudiantes,Jesús María,HAB-009
+10,Gloria,51,Universitarios,Santiago de Surco,HAB-010
+11,Fernando,45,Estudiantes,Miraflores,HAB-011
+12,Rosario,27,Universitarios,San Borja,HAB-012
+13,Julio,40,Universitarios,Lince,HAB-013
+14,Beatriz,44,Practicantes,Magdalena,HAB-014
+15,Víctor,41,Universitarios,Pueblo Libre,HAB-015
+16,Elsa,55,Jóvenes profesionales,Cercado de Lima,HAB-016
+17,César,58,Estudiantes,La Molina,HAB-017
+18,Norma,51,Jóvenes profesionales,Breña,HAB-018
+19,Javier,59,Universitarios,San Martín de Porres,HAB-019
+20,Olga,52,Estudiantes extranjeros,Los Olivos,HAB-020
+21,Enrique,62,Universitarios,Breña,HAB-021
+22,Martha,38,Estudiantes,Santiago de Surco,HAB-022
+23,Pablo,29,Estudiantes extranjeros,La Molina,HAB-023
+24,Inés,31,Jóvenes profesionales,Jesús María,HAB-024
+25,Walter,44,Estudiantes,Cercado de Lima,HAB-025
+26,Lidia,47,Estudiantes,San Miguel,HAB-026
+27,Armando,55,Universitarios,Pueblo Libre,HAB-027
+28,Flor,37,Estudiantes,Callao,HAB-028
+29,Ernesto,34,Jóvenes profesionales,Magdalena,HAB-029
+30,Sonia,49,Universitarios,Rímac,HAB-030
+31,Alfredo,29,Estudiantes,Lince,HAB-031
+32,Yolanda,34,Universitarios,Los Olivos,HAB-032
+33,Rodolfo,51,Estudiantes,San Borja,HAB-033
+34,Mirtha,61,Estudiantes,San Martín de Porres,HAB-034
+35,Gonzalo,58,Universitarios,Miraflores,HAB-035
+36,Dora,53,Estudiantes,Breña,HAB-036
+37,Felipe,39,Universitarios,Santiago de Surco,HAB-037
+38,Nelly,36,Estudiantes,La Molina,HAB-038
+39,Ramón,51,Estudiantes,Jesús María,HAB-039
+40,Ángela,35,Universitarios,Cercado de Lima,HAB-040
+41,Orlando,48,Estudiantes,San Miguel,HAB-041
+42,Ruth,41,Universitarios,Pueblo Libre,HAB-042
+43,Segundo,29,Estudiantes extranjeros,Callao,HAB-043
+44,Zoila,57,Practicantes,Magdalena,HAB-044
+45,Wilmer,59,Practicantes,Rímac,HAB-045
+46,Esther,56,Estudiantes,Lince,HAB-046
+47,Leonardo,62,Estudiantes,Los Olivos,HAB-047
+48,Berta,56,Estudiantes,San Borja,HAB-048
+49,Edgar,29,Estudiantes,San Martín de Porres,HAB-049
+50,Cecilia,62,Practicantes,Miraflores,HAB-050
